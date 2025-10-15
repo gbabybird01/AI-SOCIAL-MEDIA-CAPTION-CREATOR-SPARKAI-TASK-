@@ -1,16 +1,19 @@
 AI-SOCIAL-MEDIA-CAPTION-CREATOR-SPARKAI-TASK 
 
-##DISCLAIMER
+##DISCLAIMER:
+
 This project was developed as a task assigned for an interview. 
 
 **SAMPLE IMAGES ARE UNDER THE use_cases FOLDER**
 --
 
-##OVERVIEW
+##OVERVIEW:
+
 This is a web app that generates 3 creative social media captions and 3 relevant hashtags from the image (A.K.A. the post) or text brief of the post uploaded, the platform that the post is being uploaded to and the tone that is aimed to set.
 
 --
 #THE UI IN ACTION 
+
 
 ![alt text](use_cases\image-2.png)
 
