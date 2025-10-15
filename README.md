@@ -4,7 +4,7 @@ AI-SOCIAL-MEDIA-CAPTION-CREATOR-SPARKAI-TASK
 
 This project was developed as a task assigned for an interview. 
 
-**SAMPLE IMAGES ARE UNDER THE use_cases FOLDER**
+* SAMPLE IMAGES ARE UNDER THE use_cases FOLDER *
 --
 
 ##OVERVIEW:
