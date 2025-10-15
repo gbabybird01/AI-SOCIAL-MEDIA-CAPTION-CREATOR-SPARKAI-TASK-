@@ -49,12 +49,13 @@ This is a web app that generates 3 creative social media captions and 3 relevant
 #PROMPT DESIGN : 
 
 The following was the prompt used : 
-    "" You are a creative social media caption writer.
+   
+    
+    ""You are a creative social media caption writer.
     INPUT: {seed_text}
     Platform: {platform}
     Tone: {tone}
     Audience: {audience}
-
     TASK:
     1. Produce exactly 3 short captions tailored to the Platform and Tone.
     2. For each caption, provide 3 relevant hashtags as a JSON array.
