@@ -44,6 +44,7 @@ This is a web app that generates 3 creative social media captions and 3 relevant
  
 
 #PROMPT DESIGN : 
+
 The following was the prompt used : 
     "" You are a creative social media caption writer.
     INPUT: {seed_text}
@@ -71,6 +72,8 @@ The following was the prompt used :
 --
 
 #CHALLENGES
+
+
 During the project the challenge I faced was to build the LLM integration as I have not worked with LLMs before and had to learn to use LLM APIs in a day. Due to this as you can run and see, the image upload and then captioning does not give desired results at all times.
 
 
