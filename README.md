@@ -18,31 +18,27 @@ This is a web app that generates 3 creative social media captions and 3 relevant
 ![alt text](use_cases\image-2.png)
 
 -USE CASE : TEXT BRIEF (A teddy bear product that calms children down with music when crying)
- ->CASE 1 : PLATFORM- INSTAGRAM 
-    ~USE CASE 1.1 : TONE : FRIENDLY
-        ![alt text](use_cases\image-3.png)
-    ~USE CASE 1.2 : TONE : PLAYFUL
-        ![alt text](use_cases\image-4.png)
-    ~USE CASE 1.3 : TONE : PROFESSIONAL
-        ![alt text](use_cases\image-5.png)
+
+ ->CASE 1 : PLATFORM- INSTAGRAM
+ 
+![alt text](use_cases\image-3.png)
+![alt text](use_cases\image-4.png)
+ ![alt text](use_cases\image-5.png)
 
  ->CASE 2 : PLATFORM- LINKEDIN 
-    ~USE CASE 2.1 : TONE : FRIENDLY
-        ![alt text](use_cases\image-7.png)
-    ~USE CASE 2.2 : TONE : PLAYFUL
-        ![alt text](use_cases\image-8.png)
-    ~USE CASE 2.3 : TONE : PROFESSIONAL
-        ![alt text](use_cases\image-6.png)
+ 
+![alt text](use_cases\image-7.png)
+ ![alt text](use_cases\image-8.png)
+ ![alt text](use_cases\image-6.png)
 
  ->CASE 3 : PLATFORM- TWITTER
-    ~USE CASE 3.1 : TONE : FRIENDLY
-        ![alt text](use_cases\image-10.png)
-    ~USE CASE 3.2 : TONE : PLAYFUL
-        ![alt text](use_cases\image-9.png)
-    ~USE CASE 3.3 : TONE : PROFESSIONAL
-        ![alt text](use_cases\image-11.png)
+ 
+ ![alt text](use_cases\image-10.png)
+ ![alt text](use_cases\image-9.png)
+ ![alt text](use_cases\image-11.png)
 
 -USE CASE : IMAGE (a coffee cup)
+
 ![alt text](use_cases\image-12.png)
  
 
@@ -84,6 +80,3 @@ During the project the challenge I faced was to build the LLM integration as I h
 
 
 
-
-
-"# AI-SOCIAL-MEDIA-CAPTION-CREATOR-SPARKAI-TASK-" 
